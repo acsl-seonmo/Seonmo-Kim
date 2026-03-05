@@ -1,3 +1,9 @@
+---
+title: Seonmo Kim
+---
+
+![Profile]({{ '/assets/img/profile.jpg' | relative_url }})
+
 # Seonmo Kim
 
 Graduate Researcher at GIST  
