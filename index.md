@@ -2,7 +2,7 @@
 title: Seonmo Kim
 ---
 
-<div style="float: right; margin: 0 0 16px 24px;">
+<div style="float: right; margin: 0 0 32px 48px;">
   <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile" width="120">
 </div>
 
