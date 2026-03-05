@@ -2,7 +2,9 @@
 title: Seonmo Kim
 ---
 
-![Profile]({{ '/assets/img/profile.jpg' | relative_url }})
+<div style="float: right; margin: 0 0 16px 24px;">
+  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile" width="120">
+</div>
 
 # Seonmo Kim
 
@@ -20,6 +22,8 @@ My current interests include:
 - Robot vision
 - Sequential perception
 - Memory-based visual retrieval
+
+<div style="clear: both;"></div>
 
 ---
 
